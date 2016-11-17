@@ -7,15 +7,16 @@
     ----------------------------------------------------------------- 
 
 
-Welcome to your Rails project on Cloud9 IDE!
+dating_app
 
-To get started, just do the following:
+An application that will match you with your true love.
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://dating-app-killah-coder.c9users.io/).
+Create a profile with all your interests and a little information about
+yourself, and - utilizing NASA-tier technology - we will match you with your
+true love! 
 
-Happy coding!
-The Cloud9 IDE team
+I mean, there's a chance they might be a sociopath killer or
+something... But hey! The person sitting next to you on the bus could be so...
 
 
 ## Support & Documentation
